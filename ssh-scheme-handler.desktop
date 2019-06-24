@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Version=1.1
+Name=SSH Scheme Handler
+NoDisplay=true
+Exec=/usr/local/bin/ssh-scheme-handler %u
+MimeType=x-scheme-handler/ssh;x-scheme-handler/mosh
