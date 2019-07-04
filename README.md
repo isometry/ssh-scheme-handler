@@ -1,8 +1,8 @@
-# SSH Scheme Handler for FreeDesktop/XDG
+# SSH Scheme Handler for freedesktop.org/XDG-compliant desktop environments
 
 ## Overview
 
-Handle `ssh://[user@]host[:port]` scheme links with your preferred terminal emulator in the FreeDesktop environment.
+Handle `ssh://[user@]host[:port]` scheme links with your preferred terminal emulator in any freedesktop.org/XDG-compliant desktop environment, including Gnome, OpenBox, KDE & Xfce.
 
 ### Supported Schemes
 
